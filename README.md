@@ -20,3 +20,5 @@ Meanwhile please do not hesitate contact the authors,
 if you have comments or questions.
 
 The code is released under the terms of [Unlicense](http://unlicense.org/).
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.18914
