@@ -21,4 +21,4 @@ if you have comments or questions.
 
 The code is released under the terms of [Unlicense](http://unlicense.org/).
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.18914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1219193.svg)](https://doi.org/10.5281/zenodo.1219193)
